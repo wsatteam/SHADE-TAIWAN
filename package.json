@@ -22,7 +22,7 @@
     "firebase": "9.22.0"
   },
   "devDependencies": {
-    "typescript": "4.9.5",
+    "typescript": "7.0.2",
     "eslint": "8.40.0",
     "@types/react": "18.2.14",
     "@types/react-native": "0.71.8"
